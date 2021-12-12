@@ -1,0 +1,24 @@
+ul {
+  list-style-type: none;
+  font-size: x-large;
+}
+ul > li {
+  margin-left: 80px;
+  font-weight: bolder;
+}
+.nav {
+  display: flex;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-weight: bolder;
+}
+.container > .text_field {
+  margin-right: 100px;
+  margin-top: 60px;
+  font-weight: 200p;
+  width: 85%;
+}

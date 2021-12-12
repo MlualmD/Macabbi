@@ -1,0 +1,38 @@
+.flex-container {
+  display: flex;
+  justify-content: flex-end;
+  height: 170px;
+  background-image: url(../image/header.jpeg);
+  background-size: 100%;
+  padding-left: 40px;
+}
+.flex-container > div {
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+}
+div.img {
+  margin-left: 700px;
+}
+.size_text {
+  font-size: 11px;
+  display: flow-root;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+div .icons {
+  height: 40px;
+  width: 50px;
+  border: 1px solid white;
+  border-radius: 40px;
+  color: white;
+}
+
+img {
+  width: 300px;
+  height: 150px;
+}
